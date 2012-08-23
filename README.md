@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/nearinfinity/node-covershot.png)](http://travis-ci.org/nearinfinity/node-covershot)
 # covershot
 
 Multi-format, test framework agnostic, code coverage report generator.
